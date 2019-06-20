@@ -13,6 +13,7 @@
     "eslint": "^5.16.0",
     "firebase": "^6.2.0",
     "node-webhooks": "^1.4.2",
+    "now": "^15.5.0",
     "telegraf": "^3.30.1"
   }
 }
